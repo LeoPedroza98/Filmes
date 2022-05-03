@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.UTIL\bin\Debug\net5.0\Filmes.UTIL.deps.json
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.UTIL\bin\Debug\net5.0\Filmes.UTIL.dll
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.UTIL\bin\Debug\net5.0\Filmes.UTIL.pdb
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.UTIL\obj\Debug\net5.0\Filmes.UTIL.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.UTIL\obj\Debug\net5.0\Filmes.UTIL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.UTIL\obj\Debug\net5.0\Filmes.UTIL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.UTIL\obj\Debug\net5.0\Filmes.UTIL.AssemblyInfo.cs
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.UTIL\obj\Debug\net5.0\Filmes.UTIL.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.UTIL\obj\Debug\net5.0\Filmes.UTIL.dll
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.UTIL\obj\Debug\net5.0\refint\Filmes.UTIL.dll
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.UTIL\obj\Debug\net5.0\Filmes.UTIL.pdb
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.UTIL\obj\Debug\net5.0\ref\Filmes.UTIL.dll

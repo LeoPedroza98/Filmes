@@ -1,0 +1,27 @@
+C:\FONTES\Estudo\Filmes-API\Filmes.DOMAIN\bin\Debug\net5.0\Filmes.DOMAIN.deps.json
+C:\FONTES\Estudo\Filmes-API\Filmes.DOMAIN\bin\Debug\net5.0\Filmes.DOMAIN.dll
+C:\FONTES\Estudo\Filmes-API\Filmes.DOMAIN\bin\Debug\net5.0\Filmes.DOMAIN.pdb
+C:\FONTES\Estudo\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\Filmes.DOMAIN.csproj.AssemblyReference.cache
+C:\FONTES\Estudo\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\Filmes.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\FONTES\Estudo\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\Filmes.DOMAIN.AssemblyInfoInputs.cache
+C:\FONTES\Estudo\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\Filmes.DOMAIN.AssemblyInfo.cs
+C:\FONTES\Estudo\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\Filmes.DOMAIN.csproj.CoreCompileInputs.cache
+C:\FONTES\Estudo\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\Filmes.DOMAIN.dll
+C:\FONTES\Estudo\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\refint\Filmes.DOMAIN.dll
+C:\FONTES\Estudo\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\Filmes.DOMAIN.pdb
+C:\FONTES\Estudo\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\ref\Filmes.DOMAIN.dll
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.DOMAIN\bin\Debug\net5.0\Filmes.DOMAIN.deps.json
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.DOMAIN\bin\Debug\net5.0\Filmes.DOMAIN.dll
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.DOMAIN\bin\Debug\net5.0\Filmes.DOMAIN.pdb
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.DOMAIN\bin\Debug\net5.0\Filmes.UTIL.dll
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.DOMAIN\bin\Debug\net5.0\Filmes.UTIL.pdb
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\Filmes.DOMAIN.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\Filmes.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\Filmes.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\Filmes.DOMAIN.AssemblyInfo.cs
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\Filmes.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\Filmes.DOMAIN.csproj.CopyComplete
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\Filmes.DOMAIN.dll
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\refint\Filmes.DOMAIN.dll
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\Filmes.DOMAIN.pdb
+C:\Users\User\Documents\Meus Projetos\Testes\C#\Filmes-API\Filmes.DOMAIN\obj\Debug\net5.0\ref\Filmes.DOMAIN.dll
